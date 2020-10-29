@@ -10,5 +10,10 @@ namespace Rethought.Perspective.Responses
 
         [JsonProperty("spanScores")]
         public IList<SpanScore> SpanScores { get; set; }
+
+        public override string ToString()
+        {
+            return $"{SummaryScore.Type}: {SummaryScore.Value}";
+        }
     }
 }
