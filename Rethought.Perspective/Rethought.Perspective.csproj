@@ -7,6 +7,12 @@
     <StartupObject />
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>Volvox.Perspective</PackageId>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/VolvoxTeam/Volvox.Perspective</RepositoryUrl>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
   </ItemGroup>
