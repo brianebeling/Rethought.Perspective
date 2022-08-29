@@ -1,5 +1,7 @@
 # Rethought.Perspective
 
+**This library is deprecated, no longer maintained and might be outdated, use at your own risk.**
+
 **.Net Standard Library** for the [Perspective API](https://www.perspectiveapi.com/). The Perspective API can be used to analyze messages
 based on certain models, like toxicity. 
 
